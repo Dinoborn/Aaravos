@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 name = input ("What are you?")
 print("Hello! ", name, " is idiot!")
 print("How may I serve you?")
